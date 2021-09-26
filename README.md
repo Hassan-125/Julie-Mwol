@@ -5,11 +5,11 @@
 <a href="#"><img title="JulieMwol" src="https://img.shields.io/badge/JulieMwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/farhan-dqz"><img title="Author" src="https://img.shields.io/badge/Author-farhan-dqz/JulieMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Gizmo2003M"><img title="Author" src="https://img.shields.io/badge/Author-Gizmo2003M/JulieMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/farhan-dqz">Farhan-dqz</a> to make it public
+Project created by <a href="https://github.com/Gizmo2003M">Gizmo2003M</a> to make it public
     <br>
        | © |
         Reserved |
@@ -21,16 +21,16 @@ Project created by <a href="https://github.com/farhan-dqz">Farhan-dqz</a> to mak
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/farhan-dqz/Julie-Mwol) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Gizmo2003M/Julie-Mwol) 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Gizmo2003M/JulieMwol)
   
 ### The Hard Method
 ```js
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/farhan-dqz/Julie-Mwol
+$ git clone https://github.com/Gizmo2003M/Julie-Mwol
 $ cd Julie-Mwol
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -39,7 +39,7 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/farhan-dqz/JulieMwol
+$ git clone https://github.com/Gizmo2003M/JulieMwol
 $ cd JulieMwol
 $ npm i
 $ node julie.js
@@ -48,16 +48,16 @@ $ node julie.js
 ----
 
   <p align="center">
-  <a href="httsp://github.com/farhan-dqz/JulieMwol">
+  <a href="httsp://github.com/Gizmo2003M/JulieMwol">
     
-<a href="https://github.com/farhan-dqz/followers">
-<img src="https://img.shields.io/github/repo-size/farhan-dqz/Julie-Mwol?color=green&label=Repo%20total%20size&style=plastic">
+<a href="https://github.com/Gizmo2003M/followers">
+<img src="https://img.shields.io/github/repo-size/Gizmo2003M/Julie-Mwol?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/farhan-dqz/followers"
-<img title="Followers" src="https://img.shields.io/github/followers/farhan-dqz?color=blue&style=flat-square"></a>
-<a href="https://github.com/farhan-dqz/JulieMwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/farhan-dqz/JulieMwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/farhan-dqz/JulieMwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/farhan-dqz/JulieMwol?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Gizmo2003M/followers"
+<img title="Followers" src="https://img.shields.io/github/followers/Gizmo2003M?color=blue&style=flat-square"></a>
+<a href="https://github.com/Gizmo2003M/JulieMwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Gizmo2003M/JulieMwol?color=blue&style=flat-square"></a>
+<a href="https://github.com/Gizmo2003M/JulieMwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Gizmo2003M/JulieMwol?color=blue&style=flat-square"></a>
+<a href="https://github.com/Gizmo2003M/JulieMwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Gizmo2003M/JulieMwol?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## 📢 Guide
@@ -67,7 +67,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BT0nNPBthyFI1ejoSr0i7W)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=Julie-Mwol&theme=nightowl)](https://github.com/farhan-dqz/Julie-Mwol)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gizmo2003M&repo=Julie-Mwol&theme=nightowl)](https://github.com/Gizmo2003M/Julie-Mwol)
   </div>
     
 ### ⚠️ Warning! 
@@ -81,9 +81,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) |  [![Gizmo2003M](https://github.com/Gizmo2003M.png?size=100)](https://github.com/Gizmo2003M) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![GIZMO2003M](https://github.com/Gizmo2003M.png?size=100)](https://github.com/Gizmo2003M) |  [![Gizmo2003M](https://github.com/Gizmo2003M.png?size=100)](https://github.com/Gizmo2003M) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
-[farhan-dqz](https://github.com/farhan-dqz)  | [Gizmo2003M](https://github.com/Gizmo2003M) | [afnanplk](https://github.com/afnanplk)
+[Gizmo2003M](https://github.com/Gizmo2003M)  | [Gizmo2003M](https://github.com/Gizmo2003M) | [afnanplk](https://github.com/afnanplk)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
     
