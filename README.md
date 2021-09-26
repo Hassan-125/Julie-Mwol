@@ -83,7 +83,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
     
   [![GIZMO2003M](https://github.com/Gizmo2003M.png?size=100)](https://github.com/Gizmo2003M) |  [![shahid-devil](https://github.com/shahid-devil.png?size=100)](https://github.com/shahid-devil) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
-[Gizmo2003M](https://github.com/Gizmo2003M)  | [Gizmo2003M](https://github.com/Gizmo2003M) | [afnanplk](https://github.com/afnanplk)
+[Gizmo2003M](https://github.com/Gizmo2003M)  | [shahid-devil](https://github.com/shahid-devil) | [afnanplk](https://github.com/afnanplk)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
     
